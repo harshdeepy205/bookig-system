@@ -1,0 +1,122 @@
+{
+    "sportomania.title":"Sportomania",
+
+    "welcom.title":"SportOmania",
+    "welcome.motto":"Company's Motto",
+    "welcome.greeting":"Welcome",
+    "welcome.description":"Get access to multiple courts in your city and book in your fingerprints",
+    "welcome.signin":"Sign in",
+    "welcome.signup":"Sign up",
+    "welcome.or":"Or",
+
+    "signin.title":"Welcome Back",
+    "signin.description":"Sign in to continue",
+    "signin.phone":"Enter Phone no.",
+    "signin.otp":"Enter OTP sent on your number",
+    "signin.remember":"Remember me",
+    "signin.signin":"Signin",
+    "signin.new":"New to Sportomania?",
+    "signin.signup":"Sign Up Now",
+
+    "signup.title":"Welcome to Sportomania",
+    "signup.description":"Please provide some basic details",
+    "signup.name":"Name",
+    "signup.phone":"Phone no.",
+    "signup.agree":"By sigining up you accept our ",
+    "signup.term":"Terms and Services",
+    "signup.and":"and",
+    "signup.privacy":"Privacy policy",
+    "signup.signin":"Signin",
+    "signup.member":"Already a member?",
+    "Signin.signin":"Sign In now!",
+
+    "otp.description":"Please enter OTP sent to your mobile number",
+    
+    "select.title":"Select your sports",
+    "select.done":"Done",
+    "select.search":"Try typing 'Basketball' ",
+    "select.popular":"Popular Sports",
+    "select.recreational":"Recreational",
+    "select.ball":"Ball Sports",
+
+    "home.title":"Top Venues near you",
+    "home.seeall":"See All",
+   
+    
+    "booking.title":"Venues",
+    "booking.filter":"Filter",
+
+    "favourite-venue.title":"Favourite Venues",
+
+    "filter.title":"Filter",
+    "filter.sort":"Sort by",
+    "filter.distance":"Distance",
+    "filter.popular":"Popular",
+    "filter.sports":"Sports",
+    "filter.apply":"Apply Filter",
+
+    "congratulation.title":"Congratulations",
+    "congratulation.des":"Your Venue has been booked",
+    "congratulation.back":"Back to Home",
+
+    "cancel.title":"Booking Cancelled",
+    "cancel.des":"Your Booking has been successfully cancelled!",
+
+    "quick-booking.title":"Quick Booking",
+    "quick-booking.date":"Date",
+    "quick-booking.day":"Day",
+    "quick-booking.month":"Month",
+    "quick-booking.duration":"Duration",
+    "quick-booking.people":"No. of people",
+    "quick-booking.sports":"Sports",
+    "quick-booking.ysports":"Your Sports",
+    "quick-booking.other":"Other Sports",
+    "quick-booking.proceed":"Proceed",
+    
+    "confirm.title":"Confirm Booking",
+    "confirm.desc":"You have selected",
+    "confirm.selection":"Selected Sports",
+    "confirm.price":"Price Breakdown",
+    "confirm.venue":"Price of Venue",
+    "confirm.gst":"GST",
+    "confirm.total":"Total",
+    "confirm.pay-venue":"Pay on venue",
+    "confirm.pay":"Pay Now",
+
+    "bookings.title":"Booking",
+    "booking.available":"Available slots",
+
+    "notification.title":"Notification",
+    "notification.today":"Today",
+
+    "venue.location":"Location",
+    "venue.sports":"Available Sports",
+    "venue.info":"Additional Info",
+    "venue.call":"Call Now",
+    "venue.book":"Book Now",
+
+    "profile.edit":"Edit Profile",
+    "profile.invite":"Invite and Earn",
+    "profile.booking":"My Bookings",
+    "profile.help":"Help and Support",
+    "profile.about":"About",
+    "profile.visit":"Visit Website",
+    "profile.notification":"Notifiaction Alert",
+    "profile.logout":"Logout",
+    
+    "edit.profile":"Edit Profile",
+    "edit.save":"Save",
+    "edit.change":"Change Profile Picture",
+    "edit.details":"Profile Details",
+    "edit.basic":"Basic Details",
+    "edit.sports":"Sports Selection",
+
+    "mybooking.title":"My Booking",
+    "mybooking.upcoming":"Upcoming",
+    "mybooking.complete":"Completed",
+
+    "booking-details.title":"Booking Details",
+    "booking-details.share":"Share",
+    "booking-details.help":"Help"
+      
+}

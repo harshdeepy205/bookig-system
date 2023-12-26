@@ -1,0 +1,64 @@
+.back_arrow_info{
+    /* position: absolute;
+    top: 2%;
+    z-index: 1; */
+    margin-top: -2.7rem;
+}
+
+.back_arrow_info > svg{
+    background: white;
+    margin-left: 0.5rem;
+    border-radius: 10px;
+}
+
+.club_details > div{
+    box-shadow: none !important;
+}
+
+#sport_rate{
+    padding: 0 3.2%;
+}
+
+#grid_container{
+    padding: 0 3.2%
+
+}
+
+#info_heading{
+    margin-top: 0.1rem;
+    padding: 0 3.2%
+
+}
+
+.sport_rate_list{
+    margin-top: 1rem;
+}
+
+.sport_rate_list > div{
+    box-shadow: none !important;
+    background: #23B26D;
+
+}
+
+.club_rate_list{
+    margin-left: 2rem;
+}
+
+.club_price{
+    margin-right: 2rem;
+}
+
+.button_container{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.button_container > #btn_1{
+    border-color: #23B26D;
+    color: #23B26D;
+}
+
+.button_container > #btn_2{
+    background-color: #23B26D;
+}

@@ -1,0 +1,33 @@
+.cotent_container_select{
+    padding: 2% 6%;
+}
+
+.heading2 h5{
+    font-family: "Oswald";
+    font-weight: 600;
+}
+
+.sub_heading_1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sports_logo{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-right: 2rem;
+    font-family: 'Roboto';
+}
+
+.name_logo{
+    text-align: center;
+    margin-top: 0.5rem !important;
+    min-width: 28%;
+}
+
+.name_logo h6{
+    color: #23B26D;
+}

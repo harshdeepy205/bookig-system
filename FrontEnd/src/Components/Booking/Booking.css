@@ -1,0 +1,101 @@
+.main_logo{
+    display: flex;
+    justify-content: center;
+}
+
+.quick_booking h5{
+    font-family: 'Oswald';
+    font-weight: 600;
+    color: #23B26D;
+    font-size: 1.8rem;
+}
+
+.duration{
+    margin-top: 2rem;
+}
+.icons_section{
+    margin-top: 1rem;
+}
+
+.icons_section_2{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 3rem;
+    align-items: center;
+}
+.icons_main{
+    margin-left: 0.8rem;
+}
+
+.icons_section_2 > #number_people_heading{
+    font-family: 'Roboto';
+    font-weight: 600;
+    color: #23B26D;
+    font-size: 1rem;
+}
+
+#duration_heading{
+    color: #23B26D;
+}
+#date_heading{
+    color: #23B26D;
+}
+
+.date{
+    margin-top:1rem;
+}
+
+.sports_logo_bookingr{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    /* margin-right: 2rem; */
+    font-family: 'Roboto';
+}
+
+.number_people{
+    margin-top: 1rem;
+}
+
+
+.name_logo_booking{
+    /* text-align: center; */
+    margin-top: 1rem !important;
+    min-width: 25%;
+}
+
+.name_logo_booking h6{
+    color: #23B26D;
+}
+
+#your_sports{
+    font-size: 1rem;
+    font-weight: 500
+
+}
+
+.input_field > div > input{
+    text-align: center !important;
+}
+
+.people > div > input{
+    text-align: center !important;
+}
+
+.slots_section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.slots_section > button{
+    min-width: 20% !important;
+    margin-top: 1rem;
+    border-radius: 12px;
+    font-size: 12px;
+}
+
+.back_arrow{
+    margin-top: -1rem;
+}

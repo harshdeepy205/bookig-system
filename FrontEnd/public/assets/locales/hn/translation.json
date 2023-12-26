@@ -1,0 +1,121 @@
+{
+    "sportomania.title":"Sportomania",
+
+    "welcom.title":"SportOmania",
+    "welcome.motto":"कंपनी का आदर्श वाक्य",
+    "welcome.greeting":"स्वागत हे",
+    "welcome.description":"अपने शहर में कई खेल स्थलों तक पहुंच प्राप्त करें और अपनी उंगलियों के निशान में बुक करें",
+    "welcome.signin":"साइन इन करें",
+    "welcome.signup":"साइन अप करें",
+    "welcome.or":"या",
+
+    "signin.title":"वापसी पर स्वागत है",
+    "signin.description":"जारी रखने के लिए साइन इन करें",
+    "signin.phone":"फ़ोन नंबर दर्ज करें.",
+    "signin.otp":"आपके नंबर पर भेजा गया ओटीपी दर्ज करें",
+    "signin.remember":"मुझे याद रखना",
+    "signin.signin":"साइन इन करें",
+    "signin.new":"स्पोर्टोमेनिया में नया?",
+    "signin.signup":"अभी साइनअप करें",
+
+    "signup.title":"स्पोर्टोमेनिया में आपका स्वागत है",
+    "signup.description":"कृपया कुछ बुनियादी विवरण प्रदान करें",
+    "signup.name":"नाम",
+    "signup.phone":"फोन नंबर",
+    "signup.agree":"साइन अप करके आप हमारा स्वीकार करते हैं ",
+    "signup.term":"नियम और सेवाएं",
+    "signup.and":"तथा",
+    "signup.privacy":"गोपनीयता नीति",
+    "signup.member":"पहले ही सदस्य?",
+    "signup.signin":"अब साइन इन करो!",
+
+    "otp.description":"कृपया आपके मोबाइल नंबर पर भेजा गया ओटीपी दर्ज करें",
+    
+    "select.title":"अपने खेल का चयन करें",
+    "select.done":"किया हुआ",
+    "select.search":"'बास्केटबॉल' टाइप करने का प्रयास करें ",
+    "select.popular":"लोकप्रिय खेल",
+    "select.recreational":"मनोरंजन",
+    "select.ball":"बॉल स्पोर्ट्स",
+
+    "home.title":"आपके आस-पास के शीर्ष स्थान",
+    "home.seeall":"सभी देखें",
+   
+    
+    "booking.title":"स्थानों",
+    "booking.filter":"फ़िल्टर",
+
+    "favourite-venue.title":"पसंदीदा स्थान",
+
+    "filter.title":"फ़िल्टर",
+    "filter.sort":"इसके अनुसार क्रमबद्ध करें",
+    "filter.distance":"दूरी",
+    "filter.popular":"लोकप्रिय",
+    "filter.sports":"खेल",
+    "filter.apply":"फिल्टर लागू करें",
+
+    "congratulation.title":"बधाई हो",
+    "congratulation.des":"आपका स्थान बुक कर लिया गया है",
+    "congratulation.back":"घर वापिस जा रहा हूँ",
+
+    "cancel.title":"बुकिंग रद्द",
+    "cancel.des":"आपकी बुकिंग सफलतापूर्वक रद्द कर दी गई है!",
+
+    "quick-booking.title":"त्वरित बुकिंग",
+    "quick-booking.date":"दिनांक",
+    "quick-booking.day":"दिन",
+    "quick-booking.month":"महीना",
+    "quick-booking.duration":"अवधि",
+    "quick-booking.people":"लोगों की संख्या",
+    "quick-booking.sports":"खेल",
+    "quick-booking.ysports":"आपका खेल",
+    "quick-booking.other":"अन्य खेल",
+    "quick-booking.proceed":"आगे बढ़ना",
+    
+    "confirm.title":"बुकिंग की पुष्टि करें",
+    "confirm.desc":"आपके द्वारा चुने गए",
+    "confirm.selection":"चयनित खेल",
+    "confirm.price":"मूल्य विभाजन",
+    "confirm.venue":"स्थान की कीमत",
+    "confirm.gst":"जी एस टी",
+    "confirm.total":"कुल",
+    "confirm.pay-venue":"स्थल पर भुगतान करें",
+    "confirm.pay":"अब भुगतान करें",
+
+    "bookings.title":"Booking",
+    "booking.available":"उपलब्ध स्लॉट",
+
+    "notification.title":"अधिसूचना",
+    "notification.today":"आज",
+
+    "venue.location":"स्थान",
+    "venue.sports":"उपलब्ध खेल",
+    "venue.info":"अतिरिक्त जानकारी",
+    "venue.call":"अब कॉल करें",
+    "venue.book":"अभी बुक करें",
+
+    "profile.edit":"प्रोफ़ाइल संपादित करें",
+    "profile.invite":"आमंत्रित करें और कमाएं",
+    "profile.booking":"मेरी बुकिंग",
+    "profile.help":"सहायता और समर्थन",
+    "profile.about":"के बारे में",
+    "profile.visit":"वेबसाइट पर जाएँ",
+    "profile.notification":"अधिसूचना चेतावनी",
+    "profile.logout":"लॉग आउट",
+    
+    "edit.profile":"प्रोफ़ाइल संपादित करें",
+    "edit.save":"सहेजें",
+    "edit.change":"प्रोफ़ाइल चित्र बदलें",
+    "edit.details":"प्रोफ़ाइल विवरणs",
+    "edit.basic":"बुनियादी विवरण",
+    "edit.sports":"खेल चयन",
+
+    "mybooking.title":"मेरी बुकिंग",
+    "mybooking.upcoming":"आगामी",
+    "mybooking.complete":"पूरा हुआ",
+
+    "booking-details.title":"बुकिंग विवरण",
+    "booking-details.share":"साझा करना",
+    "booking-details.help":"मदद"
+      
+}

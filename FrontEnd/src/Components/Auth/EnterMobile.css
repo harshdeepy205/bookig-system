@@ -1,0 +1,26 @@
+.text_content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+.para_two{
+    padding: 0 6%;
+    text-align: center;
+    font-size: 1rem !important;
+}
+
+.btn_signup_start button{
+    width: 100%;
+    border-radius: 12px;
+    background-color: #23B26D;
+    align-items: center;
+}
+
+.logoHeading h5{
+    font-family: "Oswald";
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+
+}

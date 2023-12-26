@@ -1,0 +1,24 @@
+.basic_details{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    min-height: 30vh;
+}
+
+.btn_section > button{
+    border-radius: 12px;
+    background-color: #23B26D;
+    align-items: center;
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.btn_section{
+    display: flex;
+    justify-content: center;
+}
+
+.datepicker{
+    margin-top: 1rem;
+}

@@ -1,0 +1,36 @@
+.venue_logo{
+    display: flex;
+    align-items: center;
+}
+/* 
+.venue_logo img{
+    margin-left: 5rem;
+}
+
+.venue_logo svg{
+    margin-left: 4rem;
+} */
+.venu_section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.venu_heading h6{
+    font-family: 'Oswald';
+    font-weight: 600;
+    color: #23B26D;
+    font-size: 1.4rem;
+}
+
+.venu_heading{
+    /* display: flex;
+    justify-content: space-between; */
+    align-items: center;
+    margin-top: 0.6rem;
+    padding: 0 3%;
+    text-align: center;
+}
+
+.venu_heading button{
+    background-color: #23B26D !important;
+}

@@ -1,0 +1,58 @@
+.back_arrow_filter{
+    display: flex;
+    align-items: center;
+}
+
+.back_arrow_filter h5{
+    font-family: "Roboto";
+    color: #23B26D;
+    font-weight: 500;
+}
+
+.checkbox_section{
+    padding: 0% 5%;
+}
+
+.sortby_section h6{
+    color: #23B26D;
+    font-weight: 500;
+}
+
+.location ,.sports{
+    margin-top: 1rem;
+}
+
+.location h6{
+    color: #23B26D;
+    font-weight: 500;
+}
+
+.sports h6{
+    color: #23B26D;
+    font-weight: 500;
+}
+
+.sports_logo_filter{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    /* margin-right: 2rem; */
+    font-family: 'Roboto';
+}
+
+.name_logo_filter{
+    text-align: center;
+    margin-top: 1rem !important;
+    min-width: 25%;
+}
+
+.name_logo_filter h6{
+    color: #23B26D;
+}
+.apply_button button{
+    width: 100%;
+    border-radius: 12px;
+    background-color: #23B26D;
+    align-items: center;
+}

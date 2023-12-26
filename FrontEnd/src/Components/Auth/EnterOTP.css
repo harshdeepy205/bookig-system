@@ -1,0 +1,28 @@
+.cotent_container{
+    padding: 2% 3%;
+}
+
+.otp-inputs{
+    margin-top: 2rem;
+}
+
+.heading h5{
+    font-family: "Oswald";
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.btn_signup button{
+    width: 100%;
+    border-radius: 12px;
+    background-color: #23B26D;
+}
+
+.heading h6{
+    font-family: 'Roboto';
+    font-weight: 100
+}
+.cotent_container{
+    margin-top: 1rem;
+}
+

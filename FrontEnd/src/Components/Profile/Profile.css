@@ -1,0 +1,9 @@
+.app_logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+.details_section{
+    margin-top: 2rem;
+}

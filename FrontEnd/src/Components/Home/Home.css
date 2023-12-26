@@ -1,0 +1,19 @@
+#distance{
+    margin: 0 !important;
+    font-size: 14px;
+    color: grey;
+}
+
+.sports_icons{
+    margin-top: 0.8rem;
+}
+
+.club_heading > h6{
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.clubs_cards{
+    margin-top: 1rem;
+}

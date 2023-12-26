@@ -1,0 +1,37 @@
+.mybooking_logo{
+    display: flex;
+    justify-content: center;
+}
+.mybooking_container{
+    padding: 0 2%;
+}
+
+.booking_icons_section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mybooking_container{
+    padding: 0% 4%;
+}
+
+.myBookin_heading > h5{
+    font-family: 'Oswald';
+    font-weight: 600;
+    color: #23B26D;
+    font-size: 1.8rem;
+}
+
+.upcomingList{
+    margin-top: 1rem;
+}
+
+.upcomingList > #upcoming_subheading{
+    font-size: 14px;
+    color: #23B26D;
+}
+
+.cancel_btn > button{
+    border-radius: 15px;
+    font-size: 12px;
+}

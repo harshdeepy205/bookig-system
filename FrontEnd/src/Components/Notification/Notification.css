@@ -1,0 +1,22 @@
+/* .notification_logo{
+    display: flex;
+    align-items: center;
+}
+
+.notification_logo img{
+    margin-left: 4rem;
+    
+} */
+
+.notification_container > h5{
+    font-family: 'Oswald';
+    font-weight: 600;
+    color: #23B26D;
+    font-size: 1.8rem;
+}
+
+.cards_lists > #days{
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 1rem;
+}

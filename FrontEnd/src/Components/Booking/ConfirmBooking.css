@@ -1,0 +1,61 @@
+.booking_club_info{
+    margin-top: 1.5rem;
+}
+
+.booking_club_info > #selected_heading{
+    font-size: 14px;
+    color: #23B26D;
+}
+
+.book_date {
+    margin-top: 0.6rem;
+}
+
+.sport_select{
+    margin-top: 1rem;
+}
+
+.sport_select > #selected_heading{
+    font-size: 14px;
+    color: #23B26D;
+}
+
+.display_final_rate{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10%;
+    margin-top: 0.5rem;
+}
+/* 
+.display_final_rate > #rate{
+    font-size:12px
+} */
+
+.final_amount_label > h6{
+    font-weight: 600;
+}
+
+.final_price > h6{
+    font-weight: 600;
+}
+
+.btn_container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3rem;
+}
+
+.btn_container > button{
+    min-width: 40%
+}
+
+.btn_container > #btn1{
+    border-color: #23B26D;
+    color: #23B26D;
+}
+
+.btn_container > #btn2{
+    background-color: #23B26D;
+
+}
+

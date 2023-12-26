@@ -1,0 +1,19 @@
+.user_input > .css-10i04qz-MuiInputBase-root-MuiFilledInput-root:after{
+    border-bottom:2px solid #23B26D !important;
+}
+
+.user_input > .css-1wcdo2e-MuiInputBase-root-MuiFilledInput-root:after{
+    border-bottom:2px solid #23B26D !important;
+}
+
+.checkbox_tnc{
+    display: flex;
+    margin-top: 1rem;
+}
+.checkbox_tnc a{
+    color: #23B26D;
+}
+
+.cotent_container_userdetails{
+    padding: 2% 6%;
+}
